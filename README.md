@@ -1,2 +1,0 @@
-# LeafyGreen
-Mobile Applications Project
