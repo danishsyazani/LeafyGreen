@@ -1,4 +1,4 @@
-# lg
+# Leafy Green Garden Companion App
 
 A new Flutter project.
 
